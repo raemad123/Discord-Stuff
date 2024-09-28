@@ -20,11 +20,11 @@
 /* GLOBAL VARIABLES */
 *[class*=theme-] {
 
-  --unity-custom-font: unset;
+  --unity-custom-font: Kawaii Stitch;
 
   --unity-gaps: 1;
 
-  --unity-background-image: unset;
+  --unity-background-image:(img.sFlH5c.FyHeAf.iPVvYb);
   --unity-background-blur: unset;
   --unity-inset: 10px;
   --unity-border-radius: 18px;
@@ -65,7 +65,7 @@
   --guilds-border-width: unset;
 
   --sidebar-background-color:unset;
-  --sidebar-background-image: unset;
+  --sidebar-background-image: (img.sFlH5c.FyHeAf.iPVvYb);
   --sidebar-background-blur:unset;
   --sidebar-border-color: unset;
   --sidebar-border-width: unset;
